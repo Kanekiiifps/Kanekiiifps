@@ -1,80 +1,83 @@
-# Hi there, I'm [Your Name] 👋  
-**Aspiring Data Analyst | Turning Data into Stories, Insights & Impact**
+# Hi, I'm Domenico 👋  
+**Entry-Level to Intermediate Data Analyst | Passionate about Clean Data, Clear Insights & Real Impact**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile) 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://yourportfolio.com)  
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![SQL](https://img.shields.io/badge/SQL-Advanced-2ea44f)
-![Power BI](https://img.shields.io/badge/Power%20BI-Expert-F2C811)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346)
-![Tableau](https://img.shields.io/badge/Tableau-Proficient-E97627)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.notion.site)  
 
-> “Data is the new oil — but only if you know how to refine it.”  
-> I’m a driven and curious aspiring data analyst passionate about transforming raw data into clear, actionable stories that drive real business decisions.
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB)  
+![SQL](https://img.shields.io/badge/SQL-Strong-2ea44f)  
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-F2C811)  
+![Tableau](https://img.shields.io/badge/Tableau-Learning-E97627)  
 
-### 🚀 About Me
-I’m a highly motivated aspiring data analyst with a strong foundation in **data cleaning, exploratory analysis, predictive modeling, and data storytelling**. I thrive on uncovering hidden patterns, building accurate forecasts, and presenting insights in a way that non-technical stakeholders instantly understand and act upon.
+> I’m a driven, self-taught (and bootcamp-trained) data analyst who loves turning messy data into clean, beautiful, and actionable stories.
 
-What sets me apart:
-- Obsessive about **data quality** and **attention to detail**
-- Natural talent for **storytelling with data** – I don’t just show charts, I explain *why* they matter
-- Proven ability to translate complex findings into **executive-level dashboards and recommendations**
-- Self-driven learner: I taught myself Python, SQL, and Power BI through real-world projects while balancing a full-time role/studies
-- Always asking: “How can this insight create value or save time/money?”
+**BSc in Computer Science – Concordia University, Montreal**  
+Graduated with distinction | Strong foundation in algorithms, databases, and statistics
 
-### 🛠️ Technical Skills
-| Category              | Tools & Technologies                                                                 |
-|-----------------------|---------------------------------------------------------------------------------------|
-| Languages             | Python (pandas, numpy, scikit-learn, matplotlib, seaborn), SQL, R                    |
-| Visualization         | Power BI (DAX, Power Query), Tableau, Looker Studio, Excel (PivotTables, Power Pivot)|
-| Databases             | PostgreSQL, MySQL, BigQuery, Snowflake                                                |
-| Statistics & ML       | Hypothesis testing, A/B testing, regression, classification, time-series forecasting |
-| Other                 | Git, Jupyter, Google Sheets, Airtable, ETL processes                                 |
+### About Me
+I’m actively looking for my next full-time Data Analyst job.  
+Even though I’m early in my professional journey, I already think and work like someone with 2–3 years of experience because I’m obsessed with getting things right and delivering value fast.
 
-### 🔥 Featured Projects
-#### 📊 Sales Forecasting Dashboard (Power BI + Python)
-- Built an interactive dashboard that predicts monthly sales with **92% accuracy** using Prophet and XGBoost  
-- Reduced forecasting error by **38%** compared to previous Excel-based method  
-- Presented insights to senior leadership – adopted company-wide  
-[View Project →](link-to-repo-or-live-dashboard)
+What recruiters tell me stands out:
+- Extremely strong **attention to detail** and data quality
+- Natural talent for **storytelling with data – my dashboards don’t just look good, they answer real business questions
+- Always volunteer to present findings – I’m comfortable explaining insights to non-technical people
+- Super fast learner – I pick up new tools and concepts in days, not weeks
+- Proactive & ownership mindset – I treat every project data like it’s my own company’s money on the line
 
-#### 🎯 Customer Churn Prediction & Retention Strategy (Python + SQL)
-- Analyzed 18 months of customer data to identify key churn drivers  
-- Developed a logistic regression + Random Forest model achieving **87% AUC**  
-- Created a retention playbook that could save the company **$240K annually**  
-[View Notebook →](link)
+### Core Skills (Hands-on, not just coursework)
+| Area                  | Tools & Knowledge                                                              |
+|-----------------------|---------------------------------------------------------------------------------|
+| Data Cleaning & ETL   | Python (pandas), SQL, Excel, (learning Tableau)                  |
+| Analysis & Statistics | Descriptive stats, trend analysis, cohort analysis, A/B testing basics         |
+| Visualization         | Power BI (DAX basics), Excel (pivot tables, charts, slicers), Google Sheets    |
+| Databases             | PostgreSQL, MySQL, BigQuery (basic queries & joins)                            |
+| Version Control       | Git & GitHub                                                                   |
+| Soft Skills           | Presentation, stakeholder communication, requirements gathering                |
 
-#### 🏥 Healthcare KPI Dashboard (Tableau)
-- Designed a real-time dashboard tracking patient wait times, satisfaction, and resource utilization  
-- Enabled hospital management to reduce average wait time by **22%** in pilot phase  
-[Live Dashboard →](link)
+### Highlighted Projects (All real, public, and recruiter-ready)
 
-#### 💰 Personal Finance & Investment Tracker (Excel + Power BI)
-- Fully automated personal investment portfolio tracker with live market data (via APIs)  
-- Monte Carlo simulation for retirement planning with dynamic scenario analysis  
-[View Project →](link)
+#### Sales Performance Dashboard (Power BI + SQL)  
+- Connected to a 150K-row sales database, cleaned in SQL  
+- Built an interactive dashboard showing YoY growth, top products, and regional trends  
+- Added slicers and drill-throughs so managers can explore themselves  
+[Live Dashboard ↗](link) | [GitHub Repo ↗](link)
 
-(Full list of 15+ projects available in the repositories below 👇)
+#### Customer Segmentation & RFM Analysis (Python + Excel)  
+- Performed RFM (Recency, Frequency, Monetary) analysis on e-commerce data  
+- Identified high-value customers and at-risk segments  
+- Created actionable marketing recommendations  
+[Jupyter Notebook ↗](link)
 
-### 🌟 What I Bring to Your Team
-- A **business-first mindset** – I always connect data insights to revenue, cost, or customer impact
-- Exceptional **communication skills** – I can present to C-suite executives or explain findings to junior team members
-- Fast learner who hits the ground running – I delivered production-ready dashboards within my first week in previous analytics internships
-- Passionate about **continuous improvement** and automation
+#### COVID-19 Trends Dashboard (Excel + Power BI)  
+- Cleaned and combined datasets from multiple public sources  
+- Built a dashboard used by 5K+ LinkedIn viewers to understand local trends  
+[View Project ↗](link)
 
-### 📈 Currently Learning & Excited About
-- Advanced machine learning on tabular data (XGBoost, LightGBM, CatBoost)
-- dbt for modern data transformation
-- Cloud platforms (Snowflake + AWS/GCP basics)
+#### Retail Inventory Optimization (SQL + Python)  
+- Wrote complex SQL queries with CTEs, window functions, and joins  
+- Identified slow-moving stock that was tying up 30% of inventory budget  
+[GitHub Repo ↗](link)
 
-### 📫 Let’s Connect!
-I’m actively seeking **Junior Data Analyst / Business Intelligence Analyst / Analytics Engineer** roles where I can grow, contribute immediately, and help turn data into decisions.
+(See all 12+ projects in the pinned repositories below 👇)
 
-Feel free to reach out — I’d love to chat about data, dashboards, or how I can add value to your team!
+### What I’m Looking For
+ Entry-Level or Junior
+- Data Analyst  
+- Data Scientist (Junior)  
+- Reporting Analyst  
+- Analytics Engineer (junior)  
+- Marketing / Sales / Operations Analyst  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yourprofile) 
-[![Email](https://img.shields.io/badge/Email-Let’s%20Talk-red?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@gmail.com)
+I’m ready to contribute from week one while continuing to grow rapidly under great mentors.
+
+### Let’s Connect!
+I’d love to chat about data, dashboards, or how I can help your team make better decisions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let’s%20Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/Email-I’m%20Open%20to%20Opportunities-red?logo=gmail&style=for-the-badge)](mailto:your.email@example.com)
 
 ---
-⭐️ *From data to decisions — I don’t just analyze, I create impact.*
+⭐️ From messy spreadsheets to clear business answers — I’m just getting started, and I’m all in.
