@@ -1,13 +1,11 @@
 # Hi, I'm Domenico 👋  
 **Entry-Level (junior) Data Analyst | Passionate about Clean Data, Clear Insights & Real Impact**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.notion.site)  
-
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB)  
 ![SQL](https://img.shields.io/badge/SQL-Strong-2ea44f)  
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-F2C811)  
 ![Tableau](https://img.shields.io/badge/Tableau-Learning-E97627)  
+![Jupyter](https://img.shields.io/badge/Jupyter-Intermediate-6C2BC6?style=for-the-badge&logo=jupyter&logoColor=white)
 
 > I’m a driven, self-taught (and bootcamp-trained) data analyst who loves turning messy data into clean, beautiful, and actionable stories.
 
