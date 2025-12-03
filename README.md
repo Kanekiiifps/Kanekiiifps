@@ -1,5 +1,6 @@
 # Hi, I'm Domenico 👋  
 **Entry-Level (junior) Data Analyst | Passionate about Clean Data, Clear Insights & Real Impact**
+
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB)  
 ![SQL](https://img.shields.io/badge/SQL-Strong-2ea44f)  
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346)  
