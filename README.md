@@ -5,7 +5,7 @@
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-F2C811)  
 ![Tableau](https://img.shields.io/badge/Tableau-Learning-E97627)  
-![Jupyter](https://img.shields.io/badge/Jupyter-Intermediate-6C2BC6?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Intermediate-6C2BC6?style=flat&logo=jupyter&logoColor=white)
 
 > I’m a driven, self-taught (and bootcamp-trained) data analyst who loves turning messy data into clean, beautiful, and actionable stories.
 
