@@ -1,8 +1,6 @@
 # Hi, I'm Domenico 👋  
 **Entry-Level to Intermediate Data Analyst | Passionate about Clean Data, Clear Insights & Real Impact**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.notion.site)  
 
 ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB)  
