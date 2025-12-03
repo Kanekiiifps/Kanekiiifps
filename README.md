@@ -1,5 +1,5 @@
 # Hi, I'm Domenico 👋  
-**Entry-Level to Intermediate Data Analyst | Passionate about Clean Data, Clear Insights & Real Impact**
+**Entry-Level (junior) Data Analyst | Passionate about Clean Data, Clear Insights & Real Impact**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://yourportfolio.notion.site)  
 
@@ -12,11 +12,11 @@
 > I’m a driven, self-taught (and bootcamp-trained) data analyst who loves turning messy data into clean, beautiful, and actionable stories.
 
 **BSc in Computer Science – Concordia University, Montreal**  
-Graduated with distinction | Strong foundation in algorithms, databases, and statistics
+Obtained strong foundation in algorithms, databases, and statistics
 
 ### About Me
 I’m actively looking for my next full-time Data Analyst job.  
-Even though I’m early in my professional journey, I already think and work like someone with 2–3 years of experience because I’m obsessed with getting things right and delivering value fast.
+Even though I’m early in my professional journey, I already think and work like someone with 1–2 years of experience because I’m obsessed with getting things right and delivering value fast.
 
 What recruiters tell me stands out:
 - Extremely strong **attention to detail** and data quality
@@ -64,18 +64,8 @@ What recruiters tell me stands out:
 ### What I’m Looking For
  Entry-Level or Junior
 - Data Analyst  
-- Data Scientist (Junior)  
-- Reporting Analyst  
-- Analytics Engineer (junior)  
-- Marketing / Sales / Operations Analyst  
+- Data Scientist
+
 
 I’m ready to contribute from week one while continuing to grow rapidly under great mentors.
-
-### Let’s Connect!
-I’d love to chat about data, dashboards, or how I can help your team make better decisions.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let’s%20Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-I’m%20Open%20to%20Opportunities-red?logo=gmail&style=for-the-badge)](mailto:your.email@example.com)
-
----
 ⭐️ From messy spreadsheets to clear business answers — I’m just getting started, and I’m all in.
