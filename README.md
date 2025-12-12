@@ -34,30 +34,6 @@ What recruiters tell me stands out:
 | Version Control       | Git & GitHub                                                                   |
 | Soft Skills           | Presentation, stakeholder communication, requirements gathering                |
 
-### Highlighted Projects (All real, public, and recruiter-ready)
-
-#### Sales Performance Dashboard (Power BI + SQL)  
-- Connected to a 150K-row sales database, cleaned in SQL  
-- Built an interactive dashboard showing YoY growth, top products, and regional trends  
-- Added slicers and drill-throughs so managers can explore themselves  
-[Live Dashboard ↗](link) | [GitHub Repo ↗](link)
-
-#### Customer Segmentation & RFM Analysis (Python + Excel)  
-- Performed RFM (Recency, Frequency, Monetary) analysis on e-commerce data  
-- Identified high-value customers and at-risk segments  
-- Created actionable marketing recommendations  
-[Jupyter Notebook ↗](link)
-
-#### COVID-19 Trends Dashboard (Excel + Power BI)  
-- Cleaned and combined datasets from multiple public sources  
-- Built a dashboard used by 5K+ LinkedIn viewers to understand local trends  
-[View Project ↗](link)
-
-#### Retail Inventory Optimization (SQL + Python)  
-- Wrote complex SQL queries with CTEs, window functions, and joins  
-- Identified slow-moving stock that was tying up 30% of inventory budget  
-[GitHub Repo ↗](link)
-
 (See all 12+ projects in the pinned repositories below 👇)
 
 ### What I’m Looking For
